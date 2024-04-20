@@ -51,7 +51,26 @@ form button:hover {
     border: 2px solid #1a1a1a;
 }
 
+footer .center-line {
+    background-color: #fefefe;
+    border-bottom: 2px solid #fefefe;
+}
 
+footer h5 {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    color: #fefefe;
+}
+
+footer h5 a {
+    text-decoration: none;
+    color: #2ace8b;
+    transition: all 0.3s;
+}
+
+footer h5 a:hover {
+    opacity: 60%;
+}
 
 
 
