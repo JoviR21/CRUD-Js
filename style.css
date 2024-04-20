@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oxygen:wght@300;400;700&display=swap');
+
+*, body {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: #1a1a1a !important;
+}
+
+h1 {
+    color: #fefefe !important;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+}
+
+form {
+    color: #fefefe;
+    max-width: 40rem;
+}
+
+form label {
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+}
+
+form input {
+    background: #242424 !important;
+    color: #fefefe !important;
+    opacity: 100%;
+}
+
+form input::placeholder {
+    color: #fefefe !important;
+    opacity: 60% !important;
+}
+
+form button {
+    padding: 2px 14px;
+    border-radius: 8px;
+    background-color: #1a1a1a;
+    color: #fefefe;
+    border: 2px solid #2ace8b;
+    transition: all 0.3s ease-in-out;
+}
+
+form button:hover {
+    background-color: #2ace8b;
+    border: 2px solid #1a1a1a;
+}
+
+
+
+
+
