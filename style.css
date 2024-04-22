@@ -7,11 +7,11 @@
 }
 
 body {
-    background-color: #1a1a1a !important;
+    background-color: #1a1a1a;
 }
 
 h1 {
-    color: #fefefe !important;
+    color: #fefefe;
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
 }
@@ -27,14 +27,14 @@ form label {
 }
 
 form input {
-    background: #242424 !important;
-    color: #fefefe !important;
+    background: #242424;
+    color: #fefefe;
     opacity: 100%;
 }
 
 form input::placeholder {
-    color: #fefefe !important;
-    opacity: 60% !important;
+    color: #fefefe;
+    opacity: 60%;
 }
 
 form button {
